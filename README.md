@@ -5,7 +5,7 @@ Veloura — a modern clothing brand redefining elegance and comfort. Built with 
 **Veloura** — where elegance meets innovation.  
 A modern, aesthetic clothing brand designed to redefine online fashion.
 
----
+--
 
 ## 🌸 About Veloura
 Veloura is a digital fashion store that blends luxury, comfort, and technology.  
